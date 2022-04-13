@@ -1,5 +1,5 @@
 ---
-title: "react.jsとは"
+title: "react.js"
 date: "2020-01-01"
 ---
 
