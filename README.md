@@ -1,2 +1,2 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-https://next-js-tutorial-kpgfhswk9-nanaho-mu.vercel.app/
+url:https://next-js-tutorial-kpgfhswk9-nanaho-mu.vercel.app/
