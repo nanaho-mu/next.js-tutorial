@@ -1,5 +1,5 @@
 ---
-title: "next.jsとは"
+title: "next.js"
 date: "2020-08-02"
 ---
 
